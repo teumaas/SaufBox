@@ -4,8 +4,8 @@ Een Arduino Project to test Blood alcohol level for fun! Soon API/Dashboard (Wor
 
 To-Do :
 
-- Uploaden van alcohol score naar API
-- Dashboard met Highscore
+- Uploaden van alcohol score naar API (Next.js)
+- Dashboard met Highscore (Next.js)
 - Admin systeem met toevoegen gebruikers
 - Random message naar speler
 - Miet of the day op dashboard

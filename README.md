@@ -14,7 +14,7 @@ Features done:
 
 - build-in WiFiManager
 - Working hardware
-- authentication with NFC 
+- authentication with NFC
 
 Hardware schema:
 

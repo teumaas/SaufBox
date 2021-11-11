@@ -1,4 +1,4 @@
-// Zuipbox v1.00
+// Saufbox v1.00
 // setCursor(Left/Right, Up/Down);
 
 #include <FS.h>                   //this needs to be first, or it all crashes and burns...
@@ -66,7 +66,7 @@ void setup() {
   Serial.begin(9600);
   Serial.println(" ");
   Serial.println(" ");
-  Serial.println("Welkom, dit is ZuipBox v" + String(VERSION));
+  Serial.println("Welkom, dit is SaufBox v" + String(VERSION));
   Serial.println("----------------------------------");
 
   //Needed for display
@@ -86,7 +86,7 @@ void setup() {
   
   wifiManager.setBreakAfterConfig(true);
 
-  if (!wifiManager.autoConnect("ZuipBox", "bier1234")) {
+  if (!wifiManager.autoConnect("SaufBox", "bier1234")) {
     
     Serial.println("failed to connect, we should reset as see if it connects");
     delay(3000);
@@ -137,7 +137,7 @@ void blowTest(String UID){
   
   display.setTextSize(1, 2);
   display.setCursor(32, 30);
-  display.println("Blazen kut!");
+  display.println("Bitte blasen!");
   display.display();
 
   for (int i = TEST_DURATION; i >= 0; i--) {

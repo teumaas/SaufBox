@@ -1,4 +1,4 @@
-# ZuipBox v1.0
+# SaufBox v1.0
 
 Een Arduino Project to test Blood alcohol level for fun! Soon API/Dashboard (Work in progress)
 
@@ -18,7 +18,7 @@ Features done:
 
 Hardware schema:
 
-![Hardware](https://github.com/teumaas/ZuipBox/blob/main/resources/ZuipBox%20Schema.png?raw=true)
+![Hardware](https://github.com/teumaas/ZuipBox/blob/main/resources/SaufBox%20Schema.png?raw=true)
 
 Hardware PoC Video:
 

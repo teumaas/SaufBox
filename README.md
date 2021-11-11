@@ -1,20 +1,20 @@
 # SaufBox v1.0
 
-Een Arduino Project to test Blood alcohol level for fun! Soon API/Dashboard (Work in progress)
+A NodeMCU project to test Blood alcohol level for fun! Soon API/Dashboard (Work in progress)
 
 To-Do :
 
-- Uploaden van alcohol score naar API
-- Dashboard met Highscore
-- Admin systeem met toevoegen gebruikers
-- Random message naar speler
-- Miet of the day op dashboard
+- Upload alcohol score to API (Next.js)
+- Dashboard with Highscore (Next.js)
+- Admin system with the possibility to add users
+- Random message to player
+- Pussy of the day on dashboard 
 
 Features done:
 
-- WiFi manager inbouwen
-- Werkende hardware
-- authenticatie via NFC
+- build-in WiFiManager
+- Working hardware
+- authentication with NFC 
 
 Hardware schema:
 

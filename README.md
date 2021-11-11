@@ -16,7 +16,6 @@ Features done:
 - Working hardware
 - authentication with NFC
 
-
 Hardware schema:
 
 ![Hardware](https://github.com/teumaas/ZuipBox/blob/main/resources/SaufBox%20Schema.png?raw=true)

@@ -18,7 +18,7 @@ Features done:
 
 Hardware schema:
 
-![Hardware](https://github.com/teumaas/ZuipBox/blob/main/resources/SaufBox%20Schema.png?raw=true)
+![Hardware](https://github.com/teumaas/SaufBox/blob/main/resources/SaufBox%20Schema.png?raw=true)
 
 Hardware PoC Video:
 
